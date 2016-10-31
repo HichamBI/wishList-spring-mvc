@@ -7,7 +7,7 @@ Using :
     Tomcat Embedded : 8
     Spring : 4
     Hibernate : 4
-    HSQLDB (HyperSQL DataBse) : 2.3
+    HSQLDB In Memory : 2.3
     Tiles : 3
     
 Launch ApplicationLauncher.main() and go to : http://localhost:8080/wishList
